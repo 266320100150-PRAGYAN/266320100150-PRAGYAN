@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Pragyan
-
-- 🔧Web Developer Intern based in Bhubaneswar, India.
-- 📬 How to reach me: [pragyansahu643@gmail.com](mailto:pragyansahu643@gmail.com)
+🎓 Currently pursuing Master of Computer Applications (MCA) at Centurion University of Technology and Management (CUTM), Bhubaneswar.
+India.
+- 📬 How to reach me: [266320100150@centurinuniv.edu.in](mailto:266320100150@centurinuniv.edu.in)
 - 🧠 Solved many problems, showcasing strong skills in Java, C++, and Python.
 - 🔗 Rocking a cool 8 connections on [LinkedIn](www.linkedin.com/in/pragyan643)!
 - 🚀 Development sparked my coding passion—now it’s a lifelong affair! Dive into my [portfolio](https://pragyan643.github.io/Portfolio/).
