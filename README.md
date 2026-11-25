@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 Currently pursuing Master of Computer Applications (MCA) at Centurion University of Technology and Management (CUTM), Bhubaneswar.
+- 🎓 Currently pursuing Master of Computer Applications (MCA) at Centurion University of Technology and Management (CUTM), Bhubaneswar.
 India.
 - 📬 How to reach me: [266320100150@centurinuniv.edu.in](mailto:266320100150@centurinuniv.edu.in)
 - 🧠 Solved many problems, showcasing strong skills in Java, C++, and Python.
